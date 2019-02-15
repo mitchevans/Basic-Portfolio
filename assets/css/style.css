@@ -1,0 +1,38 @@
+#nametag {
+    background-color: #4aaaa5;
+    color: white;
+    position: fixed;
+    padding: 10px;
+}
+
+body {
+    background-color: #dddddd;
+}
+
+.container{
+    width: 960px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 0;
+
+}
+
+#profilePic {
+    width: 256px;
+    height: 192px;
+    float: left;
+}
+
+p {
+    color: #777777;
+}
+
+header {
+    background-color: #ffffff;
+}
+
+
+a {
+    float: right;
+
+}
