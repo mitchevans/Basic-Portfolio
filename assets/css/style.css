@@ -22,6 +22,7 @@ h2 {
     font-weight: bolder;
     font-family: 'Georgia', Times, Times New Roman, serif;
     }
+
 .tab {
     float: right;
     margin-bottom: 0px;
@@ -118,7 +119,7 @@ input {
     height: 200px;
     width: 300px;
   }
-  .photodescription {
+  .photoDescription {
     z-index: 100;
     position: absolute;
     color: white;
@@ -158,6 +159,15 @@ footer {
 }
 
 p {
+    color: #777777;
+    font-size: 16px;
+    line-height: 2;
+    padding: 15px; 
+    margin: 0 auto;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.websiteLink {
     color: #777777;
     font-size: 16px;
     line-height: 2;
