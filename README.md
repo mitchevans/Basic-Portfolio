@@ -1,2 +1,2 @@
 # Basic-Portfolio
-Web Development HW 1.
+Personal website created using HTML and CSS with links to websites created. 
